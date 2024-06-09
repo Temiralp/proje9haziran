@@ -1,2 +1,4 @@
 
 Deniz unityverseacademy'de git dersi alıyor
+beraber bir proje uzerinde çalışıyoruz
+
